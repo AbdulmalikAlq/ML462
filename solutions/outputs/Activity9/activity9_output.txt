@@ -1,0 +1,7 @@
+Activity 9 Summary
+=================
+Generated dataset with 3 clusters.
+Silhouette score on raw data: 0.8932
+Silhouette score on normalized data: 0.8934
+
+Comment: Normalization helps when features have different scales because it gives each feature equal influence during clustering.

@@ -1,0 +1,24 @@
+Activity 4 Summary
+=================
+Dataset shape: (272, 10)
+Training samples: 204
+Test samples: 68
+Best cross-validated k: 13
+Best CV accuracy: 0.7278
+Test accuracy: 0.7206
+Misclassification error: 0.2794
+
+Confusion matrix:
+[[45  3]
+ [16  4]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83        48
+           1       0.57      0.20      0.30        20
+
+    accuracy                           0.72        68
+   macro avg       0.65      0.57      0.56        68
+weighted avg       0.69      0.72      0.67        68
+

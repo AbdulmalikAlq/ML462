@@ -1,0 +1,33 @@
+Activity 5 Summary
+=================
+Dataset shape: (768, 9)
+Normalized features using StandardScaler.
+Training samples: 614
+Test samples: 154
+
+Logistic regression coefficients:
+Pregnancies                 0.363497
+Glucose                     1.188423
+BloodPressure              -0.202243
+SkinThickness               0.094903
+Insulin                    -0.130038
+BMI                         0.801103
+DiabetesPedigreeFunction    0.318395
+Age                         0.178322
+
+Accuracy on test data: 0.7078
+
+Confusion matrix:
+[[81 19]
+ [26 28]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.81      0.78       100
+           1       0.60      0.52      0.55        54
+
+    accuracy                           0.71       154
+   macro avg       0.68      0.66      0.67       154
+weighted avg       0.70      0.71      0.70       154
+

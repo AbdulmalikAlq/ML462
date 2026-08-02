@@ -1,0 +1,17 @@
+Activity 2 Summary
+=================
+Dataset shape: (97, 2)
+Model parameters:
+- w_opt: 1.193034
+- b_opt: -3.895781
+- SS_res: 868.532447
+- SS_total: 2914.847052
+- R2: 0.702032
+
+Sample predictions:
+ Population  Actual  Predicted
+     6.1101 17.5920   3.393774
+     5.5277  9.1302   2.698951
+     8.5186 13.6620   6.267196
+     7.0032 11.8540   4.459272
+     5.8598  6.8233   3.095158

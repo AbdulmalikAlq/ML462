@@ -1,0 +1,11 @@
+Activity 3 Summary
+=================
+Gradient descent results:
+- Best learning rate: 0.0100
+- Final w: 1.191261
+- Final b: -3.878138
+- Final SSE: 868.537945
+
+Other learning rates:
+lr=0.0100: w=1.191261, b=-3.878138, SSE=868.537945
+lr=0.0010: w=0.960498, b=-1.581088, SSE=963.160110

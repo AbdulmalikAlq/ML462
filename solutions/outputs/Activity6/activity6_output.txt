@@ -1,0 +1,6 @@
+Activity 6 Summary
+=================
+5-fold cross-validation results:
+- KNN mean score: 0.9667
+- Logistic regression mean score: 0.9533
+Selected model: KNN
